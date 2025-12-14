@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there 👋</h1>
+<h1 align='center'>Hello there 👋</h1>
 <h3 align='center'>I have not decided a specialisation, I simply code what I want.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&pause=1000&color=2F7BEE&vCenter=true&width=435&lines=Hello%2C+I'm+Gujji.;I'm+interested+in+Physics+and+Programming.;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
