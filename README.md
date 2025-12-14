@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-FF6600?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0066FF?style=flat&logo=css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-FF66CC?style=flat&logo=sass&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-00FFFF?style=flat&logo=flask&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-000000?style=flat&logo=gnu-bash&logoColor=white)
